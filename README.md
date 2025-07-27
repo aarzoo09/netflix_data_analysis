@@ -53,8 +53,8 @@ The goal of this project is to:
 
 ## 📸 Screenshots
 
-![Dashboard Preview](screenshots/dashboard.png)
-![Jupyter Visuals](screenshots/jupyter_plot.png)
+![Dashboard Preview](Screenshots/dashboard.png)
+![Jupyter Visuals](Screenshots/jupyter_plot.png)
 
 > *(Add screenshots of your dashboard and notebook visuals inside `screenshots/` folder.)*
 
