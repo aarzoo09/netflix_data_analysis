@@ -56,7 +56,6 @@ The goal of this project is to:
 ![Dashboard Preview](Screenshots/dashboard.png)
 ![Jupyter Visuals](Screenshots/jupyter_plot.png)
 
-> *(Add screenshots of your dashboard and notebook visuals inside `screenshots/` folder.)*
 
 ---
 
